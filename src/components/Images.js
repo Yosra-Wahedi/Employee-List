@@ -1,0 +1,21 @@
+const Images = {
+  Employee1Image: require("../assets/images/employee1.png"),
+  Employee2Image: require("../assets/images/employee2.png"),
+  Employee3Image: require("../assets/images/employee3.png"),
+  Employee4Image: require("../assets/images/employee4.png"),
+  Employee5Image: require("../assets/images/employee5.png"),
+  Employee6Image: require("../assets/images/employee6.png"),
+  Employee7Image: require("../assets/images/employee7.png"),
+  Employee8Image: require("../assets/images/employee8.png"),
+  Employee9Image: require("../assets/images/employee9.png"),
+  Employee10Image: require("../assets/images/employee10.png"),
+  Employee11Image: require("../assets/images/employee11.png"),
+  Employee12Image: require("../assets/images/employee12.png"),
+  Employee13Image: require("../assets/images/employee13.png"),
+  Employee14Image: require("../assets/images/employee14.png"),
+  Employee15Image: require("../assets/images/employee15.png"),
+  Employee16Image: require("../assets/images/employee16.png"),
+  Employee17Image: require("../assets/images/employee17.png"),
+  Employee18Image: require("../assets/images/employee18.png"),
+};
+export default Images;
